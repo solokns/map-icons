@@ -1,0 +1,13 @@
+{
+    "sprite_width": 1024,
+    "sprite_height": 1024,
+    "icons": [
+        {
+            "x": 0,
+            "y": 0,
+            "filename": "nb.png",
+            "width": 14,
+            "height": 14
+        }
+    ]
+}
