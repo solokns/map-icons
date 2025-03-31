@@ -1,12 +1,12 @@
 {
-  "Railway_station-1": {
+  "oil": {
     "width": 18,
     "height": 18,
     "x": 0,
     "y": 0,
     "pixelRatio": 1
   },
-  "oil": {
+  "at": {
     "width": 18,
     "height": 18,
     "x": 18,
@@ -20,31 +20,45 @@
     "y": 0,
     "pixelRatio": 1
   },
-  "port": {
+  "aeroway": {
     "width": 18,
     "height": 18,
     "x": 54,
     "y": 0,
     "pixelRatio": 1
   },
-  "Railway_station": {
+  "port": {
     "width": 18,
     "height": 18,
     "x": 72,
     "y": 0,
     "pixelRatio": 1
   },
-  "umba": {
+  "Railway_station": {
     "width": 18,
     "height": 18,
     "x": 90,
     "y": 0,
     "pixelRatio": 1
   },
-  "factory": {
+  "mlsp": {
     "width": 18,
     "height": 18,
     "x": 108,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "umba": {
+    "width": 18,
+    "height": 18,
+    "x": 126,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "factory": {
+    "width": 18,
+    "height": 18,
+    "x": 144,
     "y": 0,
     "pixelRatio": 1
   }
