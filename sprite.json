@@ -55,24 +55,31 @@
     "y": 0,
     "pixelRatio": 1
   },
-  "factory": {
+  "star": {
     "width": 24,
     "height": 24,
     "x": 192,
     "y": 0,
     "pixelRatio": 1
   },
-  "at": {
+  "factory": {
     "width": 24,
     "height": 24,
     "x": 216,
     "y": 0,
     "pixelRatio": 1
   },
-  "umba": {
+  "at": {
     "width": 24,
     "height": 24,
     "x": 240,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "umba": {
+    "width": 24,
+    "height": 24,
+    "x": 264,
     "y": 0,
     "pixelRatio": 1
   }
