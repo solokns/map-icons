@@ -1,33 +1,33 @@
 {
-  "mlsp": {
+  "oil": {
     "width": 24,
     "height": 24,
     "x": 0,
     "y": 0,
     "pixelRatio": 1
   },
-  "aeroway": {
+  "umba": {
     "width": 24,
     "height": 24,
     "x": 24,
     "y": 0,
     "pixelRatio": 1
   },
-  "port": {
+  "Railway_station": {
     "width": 24,
     "height": 24,
     "x": 48,
     "y": 0,
     "pixelRatio": 1
   },
-  "point_city_small": {
+  "aeroway": {
     "width": 24,
     "height": 24,
     "x": 72,
     "y": 0,
     "pixelRatio": 1
   },
-  "Railway_station": {
+  "factory": {
     "width": 24,
     "height": 24,
     "x": 96,
@@ -41,45 +41,52 @@
     "y": 0,
     "pixelRatio": 1
   },
-  "oil": {
+  "point_fill": {
     "width": 24,
     "height": 24,
     "x": 144,
     "y": 0,
     "pixelRatio": 1
   },
-  "point_city": {
+  "point_stroke": {
     "width": 24,
     "height": 24,
     "x": 168,
     "y": 0,
     "pixelRatio": 1
   },
-  "star": {
+  "port": {
     "width": 24,
     "height": 24,
     "x": 192,
     "y": 0,
     "pixelRatio": 1
   },
-  "factory": {
+  "at": {
     "width": 24,
     "height": 24,
     "x": 216,
     "y": 0,
     "pixelRatio": 1
   },
-  "at": {
+  "arrow": {
     "width": 24,
     "height": 24,
     "x": 240,
     "y": 0,
     "pixelRatio": 1
   },
-  "umba": {
+  "point_stroke_blue": {
     "width": 24,
     "height": 24,
     "x": 264,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "mlsp": {
+    "width": 24,
+    "height": 24,
+    "x": 288,
     "y": 0,
     "pixelRatio": 1
   }
